@@ -13,4 +13,3 @@ This is a basic to-do list web application created using React. Users can add, c
 - Add tasks.
 - Mark tasks as complete.
 - Remove tasks.
-- ...
